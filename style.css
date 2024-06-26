@@ -1,0 +1,50 @@
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #4c6dff, #ef9772);
+    background-size: 25% 25%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+  #perfil {
+    margin: 50px 0;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    text-align: center;
+  }
+
+  body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+  }
+
+  h1 {
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+  }
+
+  h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+
+  .middle-container {
+    margin: 20px;
+    text-align: center;
+  }
+
+  .text{
+
+    text-align: center;
+  }
+
+  .contact-me{
+    text-align: center;
+  }
